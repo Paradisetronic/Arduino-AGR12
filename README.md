@@ -1,4 +1,4 @@
-# Arduino-AGR12
+# AGR12 Drucksensor mit Arduino ansteuern
 Beispielcode für die Verwendung des AGR12 Drucksensors mit Arduino.
 
 Für das Beispiel verwenden wir einen AGR12100A00 mit einem Messbereich von 0 bis 100 kPa.
